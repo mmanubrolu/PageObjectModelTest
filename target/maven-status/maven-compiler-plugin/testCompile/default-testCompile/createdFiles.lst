@@ -1,0 +1,5 @@
+com\altitime\qa\testcase\ReportsPageTest.class
+com\altitime\qa\testcase\TimeTrackPageTest.class
+com\altitime\qa\testcase\UserPageTest.class
+com\altitime\qa\testcase\LoginPageTest.class
+com\altitime\qa\testcase\TasksPageTest.class
